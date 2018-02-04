@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3b9abe-f626-4314-84b1-dffb842f2700" name="Default" comment="" />
+    <list default="true" id="4c3b9abe-f626-4314-84b1-dffb842f2700" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MusicPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PriorityQueue/kDiffSorted.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PriorityQueue/minimumRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/WordLadderII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/getUniqueCharacter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testtools/PriorityQueue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/Solution.class" afterPath="$PROJECT_DIR$/out/production/AlgorithmPractice/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution.java" afterPath="$PROJECT_DIR$/src/Solution.java" />
+    </list>
     <ignored path="AlgorithmPractice.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,42 +34,203 @@
     <favorites_list name="AlgorithmPractice" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ArrayDictionary.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayDictionary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SucessorInBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BST/SucessorInBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RMQbySegmentTree.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RMQbySegmentTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BST/RMQbySegmentTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="420">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="e#610#611#0" expanded="false" />
+                <element signature="e#671#672#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minHeap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testtools/minHeap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#1036#1037#0" expanded="false" />
+                <element signature="e#1063#1064#0" expanded="false" />
+                <element signature="e#1096#1097#0" expanded="false" />
+                <element signature="e#1128#1129#0" expanded="false" />
+                <element signature="e#1160#1161#0" expanded="false" />
+                <element signature="e#1198#1199#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testtools/PriorityQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2130">
+              <caret line="152" column="40" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="40" />
+              <folding>
+                <element signature="e#424#425#0" expanded="false" />
+                <element signature="e#469#470#0" expanded="false" />
+                <element signature="e#517#518#0" expanded="false" />
+                <element signature="e#560#561#0" expanded="false" />
+                <element signature="e#910#911#0" expanded="false" />
+                <element signature="e#937#938#0" expanded="false" />
+                <element signature="e#976#977#0" expanded="false" />
+                <element signature="e#1003#1004#0" expanded="false" />
+                <element signature="e#1833#1834#0" expanded="false" />
+                <element signature="e#1864#1865#0" expanded="false" />
+                <element signature="e#4913#4914#0" expanded="false" />
+                <element signature="e#4964#4965#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kDiffSorted.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PriorityQueue/kDiffSorted.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="method#preorder#0;class#Solution#0" expanded="false" />
+                <element signature="class#TrieNode#0;class#Solution#0" expanded="false" />
+                <element signature="method#insert#0;class#Solution#0" expanded="false" />
+                <element signature="method#search#0;class#Solution#0" expanded="false" />
+                <element signature="method#search#1;class#Solution#0" expanded="false" />
+                <element signature="method#searchWildCard#0;class#Solution#0" expanded="false" />
+                <element signature="method#permutations#0;class#Solution#0" expanded="false" />
+                <element signature="method#decodeString#0;class#Solution#0" expanded="false" />
+                <element signature="method#permutation#0;class#Solution#0" expanded="false" />
+                <element signature="method#swap#0;class#Solution#0" expanded="false" />
+                <element signature="method#minWindow#0;class#Solution#0" expanded="false" />
+                <element signature="method#median#0;class#Solution#0" expanded="false" />
+                <element signature="method#quickSort#0;class#Solution#0" expanded="false" />
+                <element signature="method#medianbyBS#0;class#Solution#0" expanded="false" />
+                <element signature="method#findKthSmall#0;class#Solution#0" expanded="false" />
+                <element signature="method#quickSort#1;class#Solution#0" expanded="false" />
+                <element signature="method#swap#1;class#Solution#0" expanded="false" />
+                <element signature="method#combinations#0;class#Solution#0" expanded="false" />
+                <element signature="method#helper#0;class#Solution#0" expanded="false" />
+                <element signature="method#str2tree#0;class#Solution#0" expanded="false" />
+                <element signature="method#helper#1;class#Solution#0" expanded="false" />
+                <element signature="method#levelOrder#0;class#Solution#0" expanded="false" />
+                <element signature="method#serialize#0;class#Solution#0" expanded="false" />
+                <element signature="method#buildTree#0;class#Solution#0" expanded="false" />
+                <element signature="method#deserialize#0;class#Solution#0" expanded="false" />
+                <element signature="method#deserialize#1;class#Solution#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordLadderII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WordLadderII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MusicPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding>
+                <element signature="method#main#0;class#MusicPlayer#0" expanded="false" />
+                <element signature="class#Music#0;class#MusicPlayer#0" expanded="false" />
+                <element signature="class#Entry#0;class#MusicPlayer#0" expanded="false" />
+                <element signature="method#testcaseTran#0;class#MusicPlayer#0" expanded="false" />
+                <element signature="method#MusicPlayer#0;class#MusicPlayer#0" expanded="false" />
+                <element signature="method#palyRandom#0;class#MusicPlayer#0" expanded="false" />
+                <element signature="method#swap#0;class#MusicPlayer#0" expanded="false" />
+                <element signature="method#init#0;class#MusicPlayer#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumRange.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PriorityQueue/MinimumRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#943#944#0" expanded="false" />
+                <element signature="e#1005#1006#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getUniqueCharacter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/getUniqueCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="e#1204#1205#0" expanded="false" />
+                <element signature="e#1228#1229#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/testtools/PrioirtyQueue.java" />
+        <option value="$PROJECT_DIR$/src/getUniqueCharacter.java" />
+        <option value="$PROJECT_DIR$/src/PriorityQueue/minimumRange.java" />
+        <option value="$PROJECT_DIR$/src/testtools/PriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/PriorityQueue/MinimumRange.java" />
+        <option value="$PROJECT_DIR$/src/PriorityQueue/kDiffSorted.java" />
+        <option value="$PROJECT_DIR$/src/MusicPlayer.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/WordLadderII.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -66,10 +239,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
-    <option name="y" value="319" />
+    <option name="x" value="-1920" />
+    <option name="y" value="-199" />
     <option name="width" value="1280" />
-    <option name="height" value="728" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -78,7 +251,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -160,15 +333,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BST" />
+              <option name="myItemId" value="PriorityQueue" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,15 +352,10 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Application.RMQbySegmentTree">
-    <configuration default="false" name="SucessorInBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="BST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="BST.SucessorInBST" />
+  <component name="RunManager" selected="Application.WordLadderII">
+    <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -200,14 +368,64 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="RMQbySegmentTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MinimumRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BST.*" />
+          <option name="PATTERN" value="PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BST.RMQbySegmentTree" />
+      <option name="MAIN_CLASS_NAME" value="PriorityQueue.MinimumRange" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="kDiffSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PriorityQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="PriorityQueue.kDiffSorted" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MusicPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MusicPlayer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WordLadderII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="WordLadderII" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -434,6 +652,7 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -599,6 +818,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -614,19 +839,28 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.SucessorInBST" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RMQbySegmentTree" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MinimumRange" />
+      <item index="2" class="java.lang.String" itemvalue="Application.kDiffSorted" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MusicPlayer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WordLadderII" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.RMQbySegmentTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SucessorInBST" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.WordLadderII" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MusicPlayer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.kDiffSorted" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MinimumRange" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -635,49 +869,89 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515084990154</updated>
-      <workItem from="1515084991833" duration="616000" />
+      <workItem from="1515084991833" duration="1131000" />
+      <workItem from="1515118497596" duration="10476000" />
+      <workItem from="1515367100523" duration="5973000" />
+      <workItem from="1515555196542" duration="3700000" />
+      <workItem from="1515723157584" duration="5573000" />
+      <workItem from="1515966015181" duration="1891000" />
+      <workItem from="1516308311720" duration="3211000" />
+      <workItem from="1516602083984" duration="24618000" />
+      <workItem from="1517434437168" duration="194000" />
+      <workItem from="1517434833821" duration="190000" />
+      <workItem from="1517523408087" duration="5144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="616000" />
+    <option name="totallyTimeSpent" value="62101000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="319" width="1280" height="728" extended-state="6" />
+    <frame x="-1920" y="-199" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3970803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34087238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42627737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>191</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MusicPlayer.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordLadderII.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -685,11 +959,94 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/PriorityQueue/kDiffSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#392#393#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="method#preorder#0;class#Solution#0" expanded="false" />
+            <element signature="class#TrieNode#0;class#Solution#0" expanded="false" />
+            <element signature="method#insert#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#1;class#Solution#0" expanded="false" />
+            <element signature="method#searchWildCard#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutations#0;class#Solution#0" expanded="false" />
+            <element signature="method#decodeString#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutation#0;class#Solution#0" expanded="false" />
+            <element signature="method#swap#0;class#Solution#0" expanded="false" />
+            <element signature="method#minWindow#0;class#Solution#0" expanded="false" />
+            <element signature="method#median#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#0;class#Solution#0" expanded="false" />
+            <element signature="method#medianbyBS#0;class#Solution#0" expanded="false" />
+            <element signature="method#findKthSmall#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#1;class#Solution#0" expanded="false" />
+            <element signature="method#swap#1;class#Solution#0" expanded="false" />
+            <element signature="method#combinations#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#0;class#Solution#0" expanded="false" />
+            <element signature="method#str2tree#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#1;class#Solution#0" expanded="false" />
+            <element signature="method#levelOrder#0;class#Solution#0" expanded="false" />
+            <element signature="method#serialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#buildTree#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#1;class#Solution#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PriorityQueue/MinimumRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#943#944#0" expanded="false" />
+            <element signature="e#1005#1006#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getUniqueCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1228#1229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,14 +1054,593 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BST/RMQbySegmentTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="420">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#610#611#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/minHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1063#1064#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+            <element signature="e#517#518#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#910#911#0" expanded="false" />
+            <element signature="e#937#938#0" expanded="false" />
+            <element signature="e#976#977#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1864#1865#0" expanded="false" />
+            <element signature="e#4913#4914#0" expanded="false" />
+            <element signature="e#4964#4965#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="method#preorder#0;class#Solution#0" expanded="false" />
+            <element signature="class#TrieNode#0;class#Solution#0" expanded="false" />
+            <element signature="method#insert#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#1;class#Solution#0" expanded="false" />
+            <element signature="method#searchWildCard#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutations#0;class#Solution#0" expanded="false" />
+            <element signature="method#decodeString#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutation#0;class#Solution#0" expanded="false" />
+            <element signature="method#swap#0;class#Solution#0" expanded="false" />
+            <element signature="method#minWindow#0;class#Solution#0" expanded="false" />
+            <element signature="method#median#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#0;class#Solution#0" expanded="false" />
+            <element signature="method#medianbyBS#0;class#Solution#0" expanded="false" />
+            <element signature="method#findKthSmall#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#1;class#Solution#0" expanded="false" />
+            <element signature="method#swap#1;class#Solution#0" expanded="false" />
+            <element signature="method#combinations#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#0;class#Solution#0" expanded="false" />
+            <element signature="method#str2tree#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#1;class#Solution#0" expanded="false" />
+            <element signature="method#levelOrder#0;class#Solution#0" expanded="false" />
+            <element signature="method#serialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#buildTree#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#1;class#Solution#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PriorityQueue/MinimumRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#943#944#0" expanded="false" />
+            <element signature="e#1005#1006#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getUniqueCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1228#1229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/SucessorInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/RMQbySegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#610#611#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/minHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1063#1064#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+          <folding>
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+            <element signature="e#517#518#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#910#911#0" expanded="false" />
+            <element signature="e#937#938#0" expanded="false" />
+            <element signature="e#976#977#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1864#1865#0" expanded="false" />
+            <element signature="e#4913#4914#0" expanded="false" />
+            <element signature="e#4964#4965#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#preorder#0;class#Solution#0" expanded="false" />
+            <element signature="class#TrieNode#0;class#Solution#0" expanded="false" />
+            <element signature="method#insert#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#1;class#Solution#0" expanded="false" />
+            <element signature="method#searchWildCard#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutations#0;class#Solution#0" expanded="false" />
+            <element signature="method#decodeString#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutation#0;class#Solution#0" expanded="false" />
+            <element signature="method#swap#0;class#Solution#0" expanded="false" />
+            <element signature="method#minWindow#0;class#Solution#0" expanded="false" />
+            <element signature="method#median#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#0;class#Solution#0" expanded="false" />
+            <element signature="method#medianbyBS#0;class#Solution#0" expanded="false" />
+            <element signature="method#findKthSmall#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#1;class#Solution#0" expanded="false" />
+            <element signature="method#swap#1;class#Solution#0" expanded="false" />
+            <element signature="method#combinations#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#0;class#Solution#0" expanded="false" />
+            <element signature="method#str2tree#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#1;class#Solution#0" expanded="false" />
+            <element signature="method#levelOrder#0;class#Solution#0" expanded="false" />
+            <element signature="method#serialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#buildTree#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#1;class#Solution#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getUniqueCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1228#1229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/SucessorInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/RMQbySegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#610#611#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/minHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1063#1064#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+          <folding>
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+            <element signature="e#517#518#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#910#911#0" expanded="false" />
+            <element signature="e#937#938#0" expanded="false" />
+            <element signature="e#976#977#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1864#1865#0" expanded="false" />
+            <element signature="e#4913#4914#0" expanded="false" />
+            <element signature="e#4964#4965#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#preorder#0;class#Solution#0" expanded="false" />
+            <element signature="class#TrieNode#0;class#Solution#0" expanded="false" />
+            <element signature="method#insert#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#1;class#Solution#0" expanded="false" />
+            <element signature="method#searchWildCard#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutations#0;class#Solution#0" expanded="false" />
+            <element signature="method#decodeString#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutation#0;class#Solution#0" expanded="false" />
+            <element signature="method#swap#0;class#Solution#0" expanded="false" />
+            <element signature="method#minWindow#0;class#Solution#0" expanded="false" />
+            <element signature="method#median#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#0;class#Solution#0" expanded="false" />
+            <element signature="method#medianbyBS#0;class#Solution#0" expanded="false" />
+            <element signature="method#findKthSmall#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#1;class#Solution#0" expanded="false" />
+            <element signature="method#swap#1;class#Solution#0" expanded="false" />
+            <element signature="method#combinations#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#0;class#Solution#0" expanded="false" />
+            <element signature="method#str2tree#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#1;class#Solution#0" expanded="false" />
+            <element signature="method#levelOrder#0;class#Solution#0" expanded="false" />
+            <element signature="method#serialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#buildTree#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#1;class#Solution#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/SucessorInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/RMQbySegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#610#611#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/minHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1063#1064#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+            <element signature="e#517#518#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#910#911#0" expanded="false" />
+            <element signature="e#937#938#0" expanded="false" />
+            <element signature="e#976#977#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1864#1865#0" expanded="false" />
+            <element signature="e#4913#4914#0" expanded="false" />
+            <element signature="e#4964#4965#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/SucessorInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/RMQbySegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#610#611#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/SucessorInBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST/RMQbySegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#610#611#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/minHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1063#1064#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1198#1199#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PriorityQueue/MinimumRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#943#944#0" expanded="false" />
+            <element signature="e#1005#1006#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="152" column="40" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="40" />
+          <folding>
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+            <element signature="e#517#518#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#910#911#0" expanded="false" />
+            <element signature="e#937#938#0" expanded="false" />
+            <element signature="e#976#977#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1833#1834#0" expanded="false" />
+            <element signature="e#1864#1865#0" expanded="false" />
+            <element signature="e#4913#4914#0" expanded="false" />
+            <element signature="e#4964#4965#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PriorityQueue/kDiffSorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getUniqueCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1228#1229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MusicPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="method#main#0;class#MusicPlayer#0" expanded="false" />
+            <element signature="class#Music#0;class#MusicPlayer#0" expanded="false" />
+            <element signature="class#Entry#0;class#MusicPlayer#0" expanded="false" />
+            <element signature="method#testcaseTran#0;class#MusicPlayer#0" expanded="false" />
+            <element signature="method#MusicPlayer#0;class#MusicPlayer#0" expanded="false" />
+            <element signature="method#palyRandom#0;class#MusicPlayer#0" expanded="false" />
+            <element signature="method#swap#0;class#MusicPlayer#0" expanded="false" />
+            <element signature="method#init#0;class#MusicPlayer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testtools/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#392#393#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="method#preorder#0;class#Solution#0" expanded="false" />
+            <element signature="class#TrieNode#0;class#Solution#0" expanded="false" />
+            <element signature="method#insert#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#0;class#Solution#0" expanded="false" />
+            <element signature="method#search#1;class#Solution#0" expanded="false" />
+            <element signature="method#searchWildCard#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutations#0;class#Solution#0" expanded="false" />
+            <element signature="method#decodeString#0;class#Solution#0" expanded="false" />
+            <element signature="method#permutation#0;class#Solution#0" expanded="false" />
+            <element signature="method#swap#0;class#Solution#0" expanded="false" />
+            <element signature="method#minWindow#0;class#Solution#0" expanded="false" />
+            <element signature="method#median#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#0;class#Solution#0" expanded="false" />
+            <element signature="method#medianbyBS#0;class#Solution#0" expanded="false" />
+            <element signature="method#findKthSmall#0;class#Solution#0" expanded="false" />
+            <element signature="method#quickSort#1;class#Solution#0" expanded="false" />
+            <element signature="method#swap#1;class#Solution#0" expanded="false" />
+            <element signature="method#combinations#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#0;class#Solution#0" expanded="false" />
+            <element signature="method#str2tree#0;class#Solution#0" expanded="false" />
+            <element signature="method#helper#1;class#Solution#0" expanded="false" />
+            <element signature="method#levelOrder#0;class#Solution#0" expanded="false" />
+            <element signature="method#serialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#buildTree#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#0;class#Solution#0" expanded="false" />
+            <element signature="method#deserialize#1;class#Solution#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordLadderII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
