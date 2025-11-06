@@ -1,0 +1,60 @@
+{
+  "keywords": [
+    {
+      "keyword": "smart pet feeder",
+      "volume": 12500,
+      "competition": "High",
+      "clicks": 850,
+      "engagement": "6.8%",
+      "score": 8.0
+    },
+    {
+      "keyword": "cat water fountain",
+      "volume": 8900,
+      "competition": "Medium",
+      "clicks": 620,
+      "engagement": "7.0%",
+      "score": 8.5
+    },
+    {
+      "keyword": "dog treat dispenser",
+      "volume": 5600,
+      "competition": "Low",
+      "clicks": 380,
+      "engagement": "6.8%",
+      "score": 8.5
+    }
+  ],
+  "stats": {
+    "total_volume": 27000,
+    "avg_volume": 9000.0,
+    "high_potential": 3,
+    "medium_potential": 0
+  },
+  "recommended": [
+    {
+      "keyword": "cat water fountain",
+      "volume": 8900,
+      "competition": "Medium",
+      "clicks": 620,
+      "engagement": "7.0%",
+      "score": 8.5
+    },
+    {
+      "keyword": "dog treat dispenser",
+      "volume": 5600,
+      "competition": "Low",
+      "clicks": 380,
+      "engagement": "6.8%",
+      "score": 8.5
+    },
+    {
+      "keyword": "smart pet feeder",
+      "volume": 12500,
+      "competition": "High",
+      "clicks": 850,
+      "engagement": "6.8%",
+      "score": 8.0
+    }
+  ]
+}
