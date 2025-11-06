@@ -1,0 +1,166 @@
+{
+  "market_gaps": {
+    "underserved_keywords": [
+      {
+        "keyword": "automatic pet feeder",
+        "volume": 8900,
+        "competition": "Medium",
+        "opportunity_score": 4450.0
+      },
+      {
+        "keyword": "wifi pet feeder",
+        "volume": 5600,
+        "competition": "Low",
+        "opportunity_score": 5600.0
+      },
+      {
+        "keyword": "pet feeder with camera",
+        "volume": 3200,
+        "competition": "Medium",
+        "opportunity_score": 1600.0
+      },
+      {
+        "keyword": "automatic cat water bowl",
+        "volume": 4500,
+        "competition": "Medium",
+        "opportunity_score": 2250.0
+      },
+      {
+        "keyword": "pet water dispenser",
+        "volume": 6700,
+        "competition": "Medium",
+        "opportunity_score": 3350.0
+      }
+    ],
+    "price_gaps": [],
+    "feature_opportunities": []
+  },
+  "differentiation": {},
+  "pricing_strategy": {},
+  "keyword_strategy": {
+    "keyword_priority": [
+      {
+        "keyword": "cat water fountain",
+        "volume": 18000,
+        "competition": "High",
+        "type": "Primary",
+        "priority_score": 54.0
+      },
+      {
+        "keyword": "smart pet feeder",
+        "volume": 12500,
+        "competition": "High",
+        "type": "Primary",
+        "priority_score": 37.5
+      },
+      {
+        "keyword": "automatic pet feeder",
+        "volume": 8900,
+        "competition": "Medium",
+        "type": "Variant",
+        "priority_score": 35.6
+      },
+      {
+        "keyword": "wifi pet feeder",
+        "volume": 5600,
+        "competition": "Low",
+        "type": "Variant",
+        "priority_score": 33.599999999999994
+      },
+      {
+        "keyword": "pet water dispenser",
+        "volume": 6700,
+        "competition": "Medium",
+        "type": "Variant",
+        "priority_score": 26.8
+      },
+      {
+        "keyword": "automatic cat water bowl",
+        "volume": 4500,
+        "competition": "Medium",
+        "type": "Variant",
+        "priority_score": 18.0
+      },
+      {
+        "keyword": "pet feeder with camera",
+        "volume": 3200,
+        "competition": "Medium",
+        "type": "Long-tail",
+        "priority_score": 16.0
+      }
+    ]
+  },
+  "product_improvements": {},
+  "action_plan": [
+    {
+      "priority": "HIGH",
+      "task": "确定差异化卖点",
+      "detail": "从市场空白分析中选择1-2个核心差异点",
+      "time": "2天",
+      "output": "差异化定位文档"
+    },
+    {
+      "priority": "HIGH",
+      "task": "制定定价策略",
+      "detail": "根据定价分析确定初始价格和调价计划",
+      "time": "1天",
+      "output": "定价表"
+    },
+    {
+      "priority": "MEDIUM",
+      "task": "产品原型/样品",
+      "detail": "如果需要制作样品，确保体现差异化特性",
+      "time": "1-2周",
+      "output": "产品样品"
+    },
+    {
+      "priority": "HIGH",
+      "task": "专业摄影",
+      "detail": "至少7-10张图片：主图、使用场景、细节、尺寸对比",
+      "time": "2-3天",
+      "output": "产品图片库"
+    },
+    {
+      "priority": "HIGH",
+      "task": "优化标题",
+      "detail": "使用关键词策略分析的前3个关键词",
+      "time": "2小时",
+      "output": "SEO优化的标题"
+    },
+    {
+      "priority": "HIGH",
+      "task": "撰写描述",
+      "detail": "前100字包含核心关键词和卖点",
+      "time": "4小时",
+      "output": "产品描述"
+    },
+    {
+      "priority": "MEDIUM",
+      "task": "设置标签",
+      "detail": "13个标签，平衡热门词和长尾词",
+      "time": "1小时",
+      "output": "标签列表"
+    },
+    {
+      "priority": "HIGH",
+      "task": "获取初始评论",
+      "detail": "通过朋友/家人/首批客户优惠获得5-10个评论",
+      "time": "2-4周",
+      "output": "5+ 正面评论"
+    },
+    {
+      "priority": "MEDIUM",
+      "task": "监控数据",
+      "detail": "每周检查浏览量、收藏数、转化率",
+      "time": "持续",
+      "output": "数据分析表"
+    },
+    {
+      "priority": "MEDIUM",
+      "task": "A/B测试",
+      "detail": "测试不同的主图、标题、价格",
+      "time": "持续",
+      "output": "优化报告"
+    }
+  ]
+}
